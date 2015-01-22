@@ -1,0 +1,12 @@
+body{
+  text-align: center;
+  background: lightblue;
+  font-family: sans-serif;
+}
+#content{
+  height: 25%;
+  background: grey;
+  color: white;
+  cursor: pointer;
+  
+}
