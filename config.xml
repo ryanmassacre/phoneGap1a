@@ -16,7 +16,8 @@
   <author href="https://mywebsite.com" email="ryannakanishi@gmail.com">
     Ryan Nakanishi
   </author>  
-  <icon src="thumbsUp.png" gap:platform="android"/>  
+  <icon src="thumbsUp.png" gap:platform="android"/>
+  <gap:splash src="splash.png"/>  
   <!-- whitelist below of external domains allowed -->
   <access origin="http://google.com" />
   <access origin="http://yahoo.com" />
